@@ -1,5 +1,8 @@
 # Conciso Coding Dojo Deno Tic Tac Toe
 
+https://en.wikipedia.org/wiki/Tic-tac-toe
+https://de.wikipedia.org/wiki/Tic-Tac-Toe
+
 ## Getting Started
 
 You'll need to have [Deno installed](https://deno.land/#installation) before getting started.
