@@ -26,6 +26,13 @@ export class TicTacToeGame {
   markPosition(x: number, y: number): void {}
 
   /**
+   * Returns true if the game has come to an end.
+   */
+  gameIsOver(): boolean {
+    return false;
+  }
+
+  /**
    * Returns the player that has won the game or null if the
    * game has not yet been won.
    */
