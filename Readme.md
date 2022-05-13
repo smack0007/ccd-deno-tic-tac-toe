@@ -1,8 +1,6 @@
-= Conciso Coding Dojo Deno Template
+# Conciso Coding Dojo Deno Tic Tac Toe
 
-This repository contains a template for Conciso Coding Dojos in using [Deno](https://deno.land/).
-
-== Getting Started
+## Getting Started
 
 You'll need to have [Deno installed](https://deno.land/#installation) before getting started.
 
