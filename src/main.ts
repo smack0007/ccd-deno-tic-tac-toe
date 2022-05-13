@@ -1,9 +1,11 @@
-async function main(): Promise<void> {
-  console.info("Hello World!");
+import { TicTacToeGame } from "./ticTacToeGame.ts";
+
+function main(): void {
+  const game = new TicTacToeGame();
+
+  // Game logic here.
+
+  console.info(game.drawGame());
 }
 
-export function greet(): string {
-  return "Hello World!";
-}
-
-await main();
+main();

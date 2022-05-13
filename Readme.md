@@ -7,8 +7,8 @@ This repository contains a template for Conciso Coding Dojos in using [Deno](htt
 You'll need to have [Deno installed](https://deno.land/#installation) before getting started.
 
 ```bash
-git clone https://github.com/smack0007/ccd-deno-template <project-name> --depth 1
-cd <project-name>
+git clone https://github.com/smack0007/ccd-deno-tic-tac-toe --depth 1
+cd ccd-deno-tic-tac-toe
 rm -rf .git
 git init
 deno task cache
